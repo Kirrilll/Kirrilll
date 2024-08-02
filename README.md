@@ -2,32 +2,37 @@
 
 ## Flutter Developer
 
-Common Skills:
+## Common Skills:
 
--**Frameworks**: Flutter, React Native, React, Spring Boot
--**Languages**: Dart, Typescript, Java, C#
--**Tools**: Firebase, Supabase, Git
--**DB**: PostgreSQL
+- **Frameworks**: Flutter, React Native, React, Spring Boot
+- **Languages**: Dart, Typescript, Java, C#
+- **Tools**: Firebase, Supabase, Git
+- **DB**: PostgreSQL
 
-Flutter Skills:
+<h2 vertical-align="text-top" >
+  <span style="margin-left: 20px">
+    <img  width="40px" height="40px" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000"/>
+  </span>
+  Flutter Skills:
+</h2> 
 
--**State Managment**: Riverpod, Provider, Mobx
--**Routing**: GoRouter, Beamer, AutoRoute
--**Network**: Dio, http
--**Local Storages**: Hive, Isar, Shared preferences, Secured storage
--**Tools**: GetIt, Freezed, Lottie
+- **State Managment**: Riverpod, Provider, Mobx
+- **Routing**: GoRouter, Beamer, AutoRoute
+- **Network**: Dio, http
+- **Local Storages**: Hive, Isar, Shared preferences, Secured storage
+- **Tools**: GetIt, Freezed, Lottie
 
 **Also I worked with**: YandexMapKit, WebView, Geolocation, Push-notifications, Third-party auth
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirrilll&theme=default)
 
 🤝 ### Connect with Me
-<div align='center'>
-  <a href="https://t.me/OboWun">
-    <img src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" alt="Telegram"/>
+<div align='left'>
+  <a href="https://t.me/OboWun" >
+    <img width="40px" height="40px" src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" alt="Telegram"/>
   </a>
   <a href="mailto:k.larionov.02@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/>
+    <img width="40px" height="40px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail"/>
   </a>
 </div>
 <!--
