@@ -26,7 +26,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirrilll&theme=default)
 
-🤝 ### Connect with Me
+### 🤝 Connect with Me
 <div align='left'>
   <a href="https://t.me/OboWun" >
     <img width="40px" height="40px" src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" alt="Telegram"/>
