@@ -22,9 +22,7 @@
 - **Local Storages**: Hive, Isar, Shared preferences, Secured storage
 - **Tools**: GetIt, Freezed, Lottie
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OboWun&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OboWun&layout=compact)](https://github.com/OboWun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OboWun&layout=compact)]
 
 ### 🤝 Connect with Me
 <div align='left'>
