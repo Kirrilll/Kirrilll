@@ -24,6 +24,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OboWun&theme=default)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OboWun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤝 Connect with Me
 <div align='left'>
   <a href="https://t.me/OboWun" >
