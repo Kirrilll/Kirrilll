@@ -22,9 +22,7 @@
 - **Local Storages**: Hive, Isar, Shared preferences, Secured storage
 - **Tools**: GetIt, Freezed, Lottie
 
-**Also I worked with**: YandexMapKit, WebView, Geolocation, Push-notifications, Third-party auth
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirrilll&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OboWun&theme=default)
 
 ### 🤝 Connect with Me
 <div align='left'>
